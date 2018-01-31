@@ -24,5 +24,7 @@ Expectations
 
 Test Frameworks
 Angular - Jasmine, Karma & Selenium
-Spring REST Services - Cucumber & Selenium
+Spring REST Services - Cucumber & Selenium( please avoid using your custom test frameworks )
 
+Note:-
+*** Strictly avoid sharing your project related code ***
