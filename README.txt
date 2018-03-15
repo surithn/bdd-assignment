@@ -24,7 +24,7 @@ Expectations
 Angular - Jasmine, Karma & Selenium
 Spring REST Services - Cucumber & Selenium( please avoid using your custom test frameworks )
 
-#Note:- Benifits of BDD approach
+*#Note:- Benifits of BDD approach*
 
 1.  Strong collaboration. With BDD, all the involved parties have a strong understanding of the project and they can all have a role in communication and actually have constructive discussions. 
 
